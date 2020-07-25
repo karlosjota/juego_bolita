@@ -68,11 +68,3 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 [cordova-plugin-whitelist-csp]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist#content-security-policy
 [csp-is-awesome]: http://cspisawesome.com
 
-###Texto de separación.
-
-@textod de separación
-
-texto sin arroba
- 
- notebook/jupiter:
-![Jupyter notebook example](https://github.com/jupyter/notebook/blob/master/docs/resources/running_code.png "Jupyter notebook example")
